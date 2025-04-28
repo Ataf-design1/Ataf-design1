@@ -78,7 +78,7 @@
 ---
 
 ## 🎯 *Contact Me*
-📫 *Email:* your-email@example.com  
+📫 *Email:* atafkhan980@@example.com  
 🚀 *Portfolio:* [Coming Soon]() 
 
 ---
