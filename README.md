@@ -8,7 +8,7 @@
   <img src="https://github.com/Ataf-design1" alt="">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ataf </h1>
+<h1 align="center">Hi 👋, I'm Ataf  Khan</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="center">
